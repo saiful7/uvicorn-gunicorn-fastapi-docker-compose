@@ -4,4 +4,6 @@ uvicorn-gunicorn-fastapi useing docker compose
 
 to run locally:
 
-# docker-compose up --build
+``` 
+docker-compose up --build
+```
